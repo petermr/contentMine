@@ -1,4 +1,4 @@
-see [Wiki](http://github/petermr/ContentMine/wiki/Home)
+see [Wiki](http://github.com/petermr/ContentMine/wiki/Home)
 
 
 
