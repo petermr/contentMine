@@ -8,7 +8,8 @@ A project to:
 
 See slides at http://www.slideshare.net/petermurrayrust/the-content-mine-presented-at-uksg
 
-What is [[ContentMining]]
+What is [[ContentMining|ContentMining]]?
+
 
 
 
